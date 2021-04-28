@@ -2,7 +2,7 @@
 
 We care about what you love to do, and how you love to do it. 
 
-## What we're doing: Co-creation and the graph
+## What we're doing
 
 Here at Fluent we're building a new kind of online collaboration (or co-creation) tool, where data is malleable and interconnected, and can be presented in ways that are tailor-made for different use cases. It's kind of like Roam + Basecamp + Airtable + Notion, with a global graph database as a foundation. 
 
@@ -10,9 +10,15 @@ Here's a video that has inspired our vision, where our friend Wilker explains hi
 
 On a technical level our stack is pretty much 100% Clojure(Script), based on [Datomic](https://www.datomic.com), and deployed to AWS.
 
+## Philosophy and culture
+
+Our core work philosophy is based on [#AMP](https://www.youtube.com/watch?v=u6XAPnuFjJc) – **Autonomy, Mastery, Purpose** – which deeply drives our culture and decision making.
+
+Something else that inspires us is the [Shape Up](https://basecamp.com/shapeup) product development process.
+
 ## Position
 
-Though we're based in Stockholm, we're a 100% remote-first company and don't really care where you live as long as we can work well together.
+Though most of the team is based in and around Stockholm, we're a 100% remote-first company and don't really care where you live as long as we can work well together.
 
 The position offers a competitive salary and equity opportunity, along with the chance to have a big impact and lots of influence by joining the core team early in our journey.
 
