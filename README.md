@@ -27,6 +27,7 @@ The position offers a competitive salary and equity opportunity, along with the 
 - Do you thrive on learning new domains and diving in to tough technical challenges?
 - Are you interested in functional programming, cloud technologies, digging deeply into data-intensive architectures?
 - When you write code and think about product, do you do it with the end user in mind?
+- Are you drawn to simple solutions, and can you express your thoughts clearly in writing?
 - Are you able to take on a problem, dive deep, asking questions when needed, but take full ownership of the process?
 - Do you have a rich life outside work, and are you generally a curious and positive force?
 
